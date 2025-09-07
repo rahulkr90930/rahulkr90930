@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there, I'm Rahul Kumar 👋
 
-<!--
-**rahulkr90930/rahulkr90930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** Aspiring Finance & Quant Analyst**  
+- B.Tech CSE (AI & ML), passionate about finance, management, and strategic planning.  
+- Skills: financial planning, budgeting, valuation, risk modeling, Python, Excel, Streamlit.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+####  Featured Finance & Analytics Projects
+- **[finance-earnings-surprise-predictor]** — ML forecasting of earnings surprises + backtest.
+- **[finance-portfolio-optimization]** — Markowitz, CAPM, VaR simulation in Python.
+- **[finance-algo-backtester]** — Algorithmic trading simulator with multiple strategies.
+- **[finance-automated-portfolio-tracker]** — Live API-based portfolio tracker with alerts.
+
+####  Other Projects
+- `sevasetu-foundation`: [short description]
+- `spotifyclone`: [short description]
+- `techtutor`: [short description]
+
+---
+
+####  Get in Touch  
+- [LinkedIn] | [Medium/Blog] | [Email]
