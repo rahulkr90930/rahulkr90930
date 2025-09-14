@@ -7,17 +7,15 @@
 ---
 
 ####  Featured Finance & Analytics Projects
-- **[finance-earnings-surprise-predictor]** — ML forecasting of earnings surprises + backtest.
 - **[finance-portfolio-optimization]** — Markowitz, CAPM, VaR simulation in Python.
 - **[finance-algo-backtester]** — Algorithmic trading simulator with multiple strategies.
-- **[finance-automated-portfolio-tracker]** — Live API-based portfolio tracker with alerts.
 
 ####  Other Projects
-- `sevasetu-foundation`: [short description]
-- `spotifyclone`: [short description]
-- `techtutor`: [short description]
+- `sevasetu-foundation`: 
+- `spotifyclone`:
+- `techtutor`: 
 
 ---
 
 ####  Get in Touch  
-- [LinkedIn] | [Medium/Blog] | [Email]
+- [www.linkedin.com/in/rahul-kumar-kr90930] | [https://medium.com/@rahulkr90930] | [rahulkr90930@gmail.com]
